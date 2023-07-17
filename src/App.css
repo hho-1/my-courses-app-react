@@ -1,0 +1,23 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.addButton{
+    width: 25%;
+    background-color: blue;
+    color: #fff;
+    padding: .5rem 1rem;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid blue;
+    margin: 3rem 0;
+}
+.courseList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
